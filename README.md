@@ -5,7 +5,7 @@
 
 ### We are creating this Calculator so that, other developers can get the benefits of it.
 
-
+ 
 ## How to contribute : 
  1. Make a Fork.
  2. Clone the repository to your local desktop.
