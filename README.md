@@ -14,6 +14,6 @@
  5. Make changes and Add to Staging here.
  6. Commit changes [always write the message short and easy to understand (ideally 3 to 5 words).]
  7. Push the changes so that Pull request will be generated.
- 8. Make PR.
+ 8. Make PR. and raise to me
  9. Commits should be descriptive.
 
